@@ -1,0 +1,22 @@
+{
+  "name": "calvindavidrop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robroplol/calvindavidrop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robroplol/calvindavidrop/issues"
+  },
+  "homepage": "https://github.com/robroplol/calvindavidrop#readme",
+  "dependencies": {
+    "lightgallery.js": "^1.4.0"
+  }
+}
